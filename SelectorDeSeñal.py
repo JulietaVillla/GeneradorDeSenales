@@ -432,8 +432,8 @@ class PortPanel(ctk.CTkFrame):
 # ─────────────────────────────────────────────
 
 class FrequencyRow(ctk.CTkFrame):
-    PRESETS = [("100Hz", 100), ("1kHz", 1000), ("10kHz", 10000),
-            ("100k", 100000), ("1MHz", 1000000)]
+    PRESETS = [("5Hz", 5), ("10Hz", 10), ("50Hz", 50),
+            ("500Hz", 500), ("1kHz", 1000)]
 
     def __init__(self, parent, on_change):
         super().__init__(parent, fg_color=C_PANEL, corner_radius=0)
