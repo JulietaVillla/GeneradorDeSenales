@@ -1,0 +1,9 @@
+../Core/Src/main.c:159:6:WaveGen_SetWaveform	1
+../Core/Src/main.c:164:6:WaveGen_SetFrequency	1
+../Core/Src/main.c:173:10:WaveGen_GetNextSample	9
+../Core/Src/main.c:215:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:233:5:cobs_decode	7
+../Core/Src/main.c:265:10:crc16_ccitt	4
+../Core/Src/main.c:291:5:main	11
+../Core/Src/main.c:712:6:SystemClock_Config	3
+../Core/Src/main.c:754:6:Error_Handler	1
